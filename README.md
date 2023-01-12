@@ -1,5 +1,5 @@
 # ADTWINS-test
-#Instrucciones
+# Instrucciones
 
 ## Requerimiento previo a descargar el proyecto
 - Tener instalado Python(version 3.10.4 utilizada en este proyecto)
