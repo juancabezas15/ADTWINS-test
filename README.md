@@ -1,9 +1,11 @@
 # ADTWINS-test
+#Instrucciones
+
 ## Requerimiento previo a descargar el proyecto
 - Tener instalado Python(version 3.10.4 utilizada en este proyecto)
 - Tener instalado MongoDB(Utilizando por defecto puerto el localhost:)
 
-## Instrucciones para ejecutar el proyecto:
+## Para ejecutar el proyecto:
 - Posicionarse en la raiz del proyecto
 - Instalar el entorno virtual
 `python -m venv env`
